@@ -1,5 +1,3 @@
-### Hi there 👋
+### jennywnuo.com 
 
-- 📫 How to reach me: jennywnuo@gmail.com
-- 😄 Pronouns: she/her
-- 👩🏻‍💻 Studying: Linguistics and Computer Science @ UCLA 
+This is a website for my side project, Jenny Nuo
